@@ -132,7 +132,6 @@ make html
 python --version
 ```
 
-
 ```{attention}
 上記ページでは、requirement.txtが必要であるとの記載はなく、  
 pipfileのみでデプロイ可能とのことだが、うまくいかなかった。  
