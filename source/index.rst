@@ -1,17 +1,22 @@
-.. JavaStudy documentation master file, created by
-   sphinx-quickstart on Sat Mar 15 14:52:49 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
-JavaStudy documentation
-=======================
-
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
-
+技術系マニュアル
+===============================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
 
+   ./SetUpManuals/inits
+   ./SetUpManuals/tips
+
+
+その他備忘録
+===============================
+
+主に高田向け。
+このページとかプロジェクトとかどうやって作ってったかまとめとく。
+
+.. toctree::
+   :maxdepth: 1
+
+   ./Others/sphinxSetUp
+   ./Others/sphinxCustom
+   ./Others/markdownCheet
