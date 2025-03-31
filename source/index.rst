@@ -1,12 +1,27 @@
-作業マニュアル
+初期設定
 ===============================
+勉強会の前提となる対応です。
+必要なサイトへのユーザー登録や、アプリのインストール
+拡張機能の導入などを行います。
 
 .. toctree::
    :maxdepth: 1
 
    ./SetUpManuals/inits
+   ./SetUpManuals/extentionsForVSCode
    ./SetUpManuals/howToUseTortoiseGit
    ./SetUpManuals/tips
+
+
+Javaプログラミング！
+===============================
+さぁ、実際にプログラミングするぞ！という気持ちで見るページです。
+
+.. toctree::
+   :maxdepth: 1
+
+   ./JavaProgramming/simpleProject
+
 
 
 勉強会記録
@@ -38,3 +53,4 @@
    ./Others/sphinxSetUp
    ./Others/sphinxCustom
    ./Others/markdownCheet
+   ./Others/quarkusSetUp
