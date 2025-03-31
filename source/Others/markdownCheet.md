@@ -33,6 +33,15 @@
 
     注釈の種類として、attention（注意） / caution（注意） / danger（危険） / error（エラー） / hint（ヒント） / important（重要） / note（注釈） / seealso（参考） / tip（Tip） / warning（警告）がプリセットされています
 
+## 画像の添付
+
+```
+ ![image](xxx.png)
+
+```
+
 ## 参考ページ
 
 - [公式Ref](https://kumaroot.readthedocs.io/ja/latest/sphinx/sphinx-usage.html)
+- [myst公式Ref](https://myst-parser.readthedocs.io/en/stable/index.html)
+    - [↑を参照して書かれたページ（マークダウンでsphinx使う場合方法）](https://kumaroot.readthedocs.io/ja/latest/sphinx/sphinx-usage.html)
