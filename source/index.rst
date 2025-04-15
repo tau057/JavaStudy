@@ -31,6 +31,7 @@ Javaプログラミング！
    :maxdepth: 1
 
    ./Records/01
+   ./Records/02
    ./Records/template
 
 
