@@ -1,8 +1,5 @@
-初期設定
+初期設定（勉強会の前提）
 ===============================
-勉強会の前提となる対応です。
-必要なサイトへのユーザー登録や、アプリのインストール
-拡張機能の導入などを行います。
 
 .. toctree::
    :maxdepth: 1
@@ -15,12 +12,12 @@
 
 Javaプログラミング！
 ===============================
-さぁ、実際にプログラミングするぞ！という気持ちで見るページです。
 
 .. toctree::
    :maxdepth: 1
 
    ./JavaProgramming/simpleProject
+   ./JavaProgramming/trumpGame/index
 
 
 
@@ -41,6 +38,8 @@ Javaプログラミング！
 
 - `プログラミング練習用リポジトリ（GitHub） <https://github.com/tau057/JavaQuarkusStudy>`_
 - `このページのソースのリポジトリ（GitHub） <https://github.com/tau057/JavaStudy>`_
+
+- `作図によく使用するサイト（draw.io） <https://app.diagrams.net/>`_
 
 
 その他備忘録
