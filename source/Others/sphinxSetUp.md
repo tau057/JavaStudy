@@ -27,7 +27,7 @@ pipコマンドを使用して作業を進めるために必要。
 以下のコマンドを実行する。
 
 ```
-pip instal pipenv
+pip install pipenv
 pipenv --python 3.XX
 ```
 
