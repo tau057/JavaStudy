@@ -30,6 +30,7 @@ Javaプログラミング！
       ./Records/01
       ./Records/02
       ./Records/03
+      ./Records/04
       ./Records/template
 
 
